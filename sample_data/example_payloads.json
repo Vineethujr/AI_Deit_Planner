@@ -1,0 +1,32 @@
+{
+  "register_request": {
+    "name": "Demo User",
+    "email": "demo@example.com",
+    "password": "password123"
+  },
+  "register_response": {
+    "message": "Registration successful.",
+    "token": "<jwt>",
+    "user_id": "<uuid>"
+  },
+  "profile_update_request": {
+    "age": 26,
+    "height_cm": 168,
+    "weight_kg": 62,
+    "sex": "female",
+    "activity_level": "moderate",
+    "goal": "weight_loss",
+    "dietary_preference": "vegan",
+    "allergies": ["nuts"]
+  },
+  "generate_plan_response_example": {
+    "source": "rule_based",
+    "breakfast": [{"food_id": "soy_milk", "name": "Soy Milk", "grams": 400, "kcal": 216, "protein_g": 13.2, "carbs_g": 25.2, "fat_g": 7.2}],
+    "lunch": [{"food_id": "brown_rice", "name": "Brown Rice", "grams": 400, "kcal": 492, "protein_g": 10.8, "carbs_g": 102.4, "fat_g": 4.0}],
+    "snack": [{"food_id": "banana", "name": "Banana", "grams": 200, "kcal": 178, "protein_g": 2.2, "carbs_g": 45.6, "fat_g": 0.6}],
+    "dinner": [{"food_id": "tofu", "name": "Tofu", "grams": 400, "kcal": 304, "protein_g": 32.0, "carbs_g": 7.6, "fat_g": 19.2}],
+    "nutrition_summary": {"target_calories": 1817, "estimated_calories": 1190, "protein_g": 58.2, "carbs_g": 180.8, "fat_g": 31.0},
+    "hydration_reminder": "Aim for roughly 8 glasses (about 2-2.5 liters) of water across the day.",
+    "disclaimer": "This plan is an educational / general wellness example generated from demo data. It is not medical or clinical nutrition advice. Consult a qualified professional for individual dietary guidance."
+  }
+}

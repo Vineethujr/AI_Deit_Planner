@@ -1,0 +1,26 @@
+# Environment / secrets
+.env
+*.env.local
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+*.egg-info/
+.pytest_cache/
+
+# Local "cloud" simulation data
+data/
+*.db
+
+# Node / frontend
+node_modules/
+frontend/dist/
+frontend/.vite/
+npm-debug.log*
+
+# OS / editor
+.DS_Store
+.vscode/
+.idea/

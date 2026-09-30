@@ -1,0 +1,24 @@
+{
+  "foods": [
+    {"id": "oats", "name": "Oats", "tags": ["vegan", "vegetarian"], "meal": ["breakfast"], "cuisine": ["general", "indian"], "per100": {"kcal": 379, "protein": 13.2, "carbs": 67.7, "fat": 6.5}},
+    {"id": "banana", "name": "Banana", "tags": ["vegan", "vegetarian"], "meal": ["breakfast", "snack"], "cuisine": ["general"], "per100": {"kcal": 89, "protein": 1.1, "carbs": 22.8, "fat": 0.3}},
+    {"id": "greek_yogurt", "name": "Greek Yogurt", "tags": ["vegetarian"], "meal": ["breakfast", "snack"], "cuisine": ["general"], "per100": {"kcal": 59, "protein": 10.0, "carbs": 3.6, "fat": 0.4}},
+    {"id": "soy_milk", "name": "Soy Milk", "tags": ["vegan", "vegetarian"], "meal": ["breakfast"], "cuisine": ["general"], "per100": {"kcal": 54, "protein": 3.3, "carbs": 6.3, "fat": 1.8}},
+    {"id": "poha", "name": "Vegetable Poha", "tags": ["vegan", "vegetarian"], "meal": ["breakfast"], "cuisine": ["indian"], "per100": {"kcal": 158, "protein": 3.0, "carbs": 27.0, "fat": 4.0}},
+    {"id": "idli", "name": "Idli (steamed rice cakes)", "tags": ["vegan", "vegetarian"], "meal": ["breakfast"], "cuisine": ["indian"], "per100": {"kcal": 132, "protein": 4.0, "carbs": 27.0, "fat": 0.5}},
+    {"id": "egg", "name": "Boiled Egg", "tags": ["non-vegetarian", "vegetarian-with-egg"], "meal": ["breakfast", "snack"], "cuisine": ["general"], "per100": {"kcal": 155, "protein": 13.0, "carbs": 1.1, "fat": 11.0}},
+    {"id": "brown_rice", "name": "Brown Rice", "tags": ["vegan", "vegetarian"], "meal": ["lunch", "dinner"], "cuisine": ["general", "indian"], "per100": {"kcal": 123, "protein": 2.7, "carbs": 25.6, "fat": 1.0}},
+    {"id": "quinoa", "name": "Quinoa", "tags": ["vegan", "vegetarian"], "meal": ["lunch", "dinner"], "cuisine": ["general"], "per100": {"kcal": 120, "protein": 4.4, "carbs": 21.3, "fat": 1.9}},
+    {"id": "chole", "name": "Chickpea Curry (Chole)", "tags": ["vegan", "vegetarian"], "meal": ["lunch", "dinner"], "cuisine": ["indian"], "per100": {"kcal": 164, "protein": 8.9, "carbs": 27.4, "fat": 2.6}},
+    {"id": "dal", "name": "Lentil Dal", "tags": ["vegan", "vegetarian"], "meal": ["lunch", "dinner"], "cuisine": ["indian"], "per100": {"kcal": 116, "protein": 9.0, "carbs": 20.0, "fat": 0.4}},
+    {"id": "paneer", "name": "Paneer (cottage cheese)", "tags": ["vegetarian"], "meal": ["lunch", "dinner"], "cuisine": ["indian"], "per100": {"kcal": 265, "protein": 18.0, "carbs": 6.0, "fat": 20.0}},
+    {"id": "tofu", "name": "Tofu", "tags": ["vegan", "vegetarian"], "meal": ["lunch", "dinner"], "cuisine": ["general"], "per100": {"kcal": 76, "protein": 8.0, "carbs": 1.9, "fat": 4.8}},
+    {"id": "chicken_breast", "name": "Grilled Chicken Breast", "tags": ["non-vegetarian"], "meal": ["lunch", "dinner"], "cuisine": ["general"], "per100": {"kcal": 165, "protein": 31.0, "carbs": 0.0, "fat": 3.6}},
+    {"id": "fish", "name": "Grilled Fish", "tags": ["non-vegetarian"], "meal": ["lunch", "dinner"], "cuisine": ["general"], "per100": {"kcal": 128, "protein": 22.0, "carbs": 0.0, "fat": 3.4}},
+    {"id": "mixed_veg", "name": "Mixed Vegetable Sabzi", "tags": ["vegan", "vegetarian"], "meal": ["lunch", "dinner"], "cuisine": ["indian"], "per100": {"kcal": 85, "protein": 2.5, "carbs": 12.0, "fat": 3.0}},
+    {"id": "salad", "name": "Garden Salad", "tags": ["vegan", "vegetarian"], "meal": ["lunch", "dinner", "snack"], "cuisine": ["general"], "per100": {"kcal": 40, "protein": 1.8, "carbs": 7.0, "fat": 0.3}},
+    {"id": "almonds", "name": "Almonds", "tags": ["vegan", "vegetarian"], "meal": ["snack"], "cuisine": ["general"], "per100": {"kcal": 579, "protein": 21.2, "carbs": 21.7, "fat": 49.9}},
+    {"id": "apple", "name": "Apple", "tags": ["vegan", "vegetarian"], "meal": ["snack"], "cuisine": ["general"], "per100": {"kcal": 52, "protein": 0.3, "carbs": 13.8, "fat": 0.2}},
+    {"id": "hummus", "name": "Hummus with Veggies", "tags": ["vegan", "vegetarian"], "meal": ["snack"], "cuisine": ["general"], "per100": {"kcal": 166, "protein": 7.9, "carbs": 14.3, "fat": 9.6}}
+  ]
+}
